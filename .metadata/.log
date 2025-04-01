@@ -1,0 +1,75 @@
+!SESSION 2025-04-01 09:37:02.600 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\учеба\Laser_communication
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-01 09:37:07.377
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-01 09:37:07.379
+!MESSAGE Log4j2 initialized with config file C:\учеба\Laser_communication\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-01 09:37:10.059
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-01 09:37:36.093
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/openstlinux/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-01 09:37:36.156
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/updatesite1.
+!SESSION 2025-04-01 09:37:42.361 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/учеба/Laser_communication/
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-01 09:37:46.369
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-01 09:37:46.370
+!MESSAGE Log4j2 initialized with config file C:\учеба\Laser_communication\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-01 09:37:49.495
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-01 09:38:15.397
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/openstlinux/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-01 09:38:15.459
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/updatesite1.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-01 09:42:00.624
+!MESSAGE Indexed 'BER_analyzer' (19 sources, 81 headers) in 2.68 sec: 4,938 declarations; 21,054 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0077%)
+!SESSION 2025-04-01 09:44:17.649 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\учеба\Laser_communication
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-01 09:44:21.624
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-01 09:44:21.625
+!MESSAGE Log4j2 initialized with config file C:\учеба\Laser_communication\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-01 09:44:26.551
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-01 09:44:51.529
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/openstlinux/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-01 09:44:51.614
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/updatesite1.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-01 09:44:52.517
+!MESSAGE Indexed 'Laser_Receiver_prot_PPM_1' (21 sources, 115 headers) in 2.67 sec: 11,740 declarations; 52,800 references; 3 unresolved inclusions; 46 syntax errors; 171 unresolved names (0.26%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-01 09:45:08.384
+!MESSAGE Indexed 'Laser_Reciever_prot_OOK_1' (23 sources, 85 headers) in 1.47 sec: 7,091 declarations; 50,311 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0035%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-01 09:45:18.752
+!MESSAGE Indexed 'Laser_Transmitter_prot_1' (18 sources, 106 headers) in 0.954 sec: 7,810 declarations; 31,243 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.48%)

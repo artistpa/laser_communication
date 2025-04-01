@@ -1,0 +1,42 @@
+2025-03-08 11:13:05,737 [INFO] WebApp:194 - Connection lost
+2025-03-08 11:13:23,397 [INFO] WebApp:191 - Connection restablished
+2025-03-08 11:13:26,970 [INFO] WebApp:194 - Connection lost
+2025-03-08 11:13:27,185 [INFO] WebApp:191 - Connection restablished
+2025-03-08 11:14:59,434 [INFO] WebApp:194 - Connection lost
+2025-03-08 11:14:59,676 [INFO] WebApp:191 - Connection restablished
+2025-03-08 13:02:57,693 [INFO] WebApp:194 - Connection lost
+2025-03-08 13:03:04,120 [INFO] WebApp:191 - Connection restablished
+2025-03-08 13:03:14,413 [INFO] WebApp:194 - Connection lost
+2025-03-08 13:03:14,555 [INFO] WebApp:191 - Connection restablished
+2025-03-08 13:03:17,137 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 467224848 Bytes (916455424)
+2025-03-08 13:03:17,322 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 479283496 Bytes (916455424)
+2025-03-08 13:03:18,555 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 539892952 Bytes (916455424)
+2025-03-08 13:03:19,278 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-03-08 13:03:19,278 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-03-08 13:03:19,279 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-03-08 13:03:19,279 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-03-08 13:03:19,281 [INFO] CodeGenerator:882 - code generatio: config db path: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\
+2025-03-08 13:03:19,413 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\MXTmpFiles\license.tmp_save
+2025-03-08 13:03:19,714 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\MXTmpFiles\license.tmp
+2025-03-08 13:03:19,768 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\MXTmpFiles\gpio.tmp_save
+2025-03-08 13:03:19,917 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\MXTmpFiles\gpio.tmp
+2025-03-08 13:03:19,958 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Src\stm32f1xx_it.c_save
+2025-03-08 13:03:20,515 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Src\stm32f1xx_it.c
+2025-03-08 13:03:20,525 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Inc\stm32f1xx_it.h_save
+2025-03-08 13:03:20,668 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Inc\stm32f1xx_it.h
+2025-03-08 13:03:20,695 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Src\stm32f1xx_hal_msp.c_save
+2025-03-08 13:03:20,971 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Src\stm32f1xx_hal_msp.c
+2025-03-08 13:03:20,979 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\MXTmpFiles\system.tmp_save
+2025-03-08 13:03:21,106 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\MXTmpFiles\system.tmp
+2025-03-08 13:03:21,125 [INFO] CodeEngine:319 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-03-08 13:03:21,268 [INFO] CodeEngine:343 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Inc\stm32f1xx_hal_conf.h
+2025-03-08 13:03:21,342 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Inc\main.h_save
+2025-03-08 13:03:21,522 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Inc\main.h
+2025-03-08 13:03:21,533 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Src\main.c_save
+2025-03-08 13:03:21,712 [INFO] CodeEngine:287 - Generated code: C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\Core\Src\main.c
+2025-03-08 13:03:22,193 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 210mS.
+2025-03-08 13:03:22,199 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-03-08 13:03:22,326 [INFO] ConfigFileManager:1590 - The Die is : DIE412
+2025-03-08 13:03:23,923 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1724mS.
+2025-03-08 13:03:23,924 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-03-08 13:03:23,929 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.

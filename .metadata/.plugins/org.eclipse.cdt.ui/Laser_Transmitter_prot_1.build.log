@@ -1,0 +1,20 @@
+15:41:58 **** Incremental Build of configuration Debug for project Laser_Transmitter_prot_1 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c:240:13: warning: 'Transmit_message_OOK' defined but not used [-Wunused-function]
+  240 | static void Transmit_message_OOK(uint8_t* message, uint8_t n){
+      |             ^~~~~~~~~~~~~~~~~~~~
+arm-none-eabi-gcc -o "Laser_Transmitter_prot_1.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\arsen\STM32CubeIDE\workspace_1.18.0\Laser_Transmitter_prot_1\STM32F103C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Laser_Transmitter_prot_1.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Laser_Transmitter_prot_1.elf
+ 
+arm-none-eabi-size  Laser_Transmitter_prot_1.elf 
+arm-none-eabi-objdump -h -S Laser_Transmitter_prot_1.elf  > "Laser_Transmitter_prot_1.list"
+   text	   data	    bss	    dec	    hex	filename
+   9436	     12	   1756	  11204	   2bc4	Laser_Transmitter_prot_1.elf
+Finished building: default.size.stdout
+ 
+Finished building: Laser_Transmitter_prot_1.list
+ 
+
+15:41:59 Build Finished. 0 errors, 1 warnings. (took 720ms)
+
