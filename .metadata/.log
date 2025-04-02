@@ -73,3 +73,33 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\учеба\La
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-04-01 09:45:18.752
 !MESSAGE Indexed 'Laser_Transmitter_prot_1' (18 sources, 106 headers) in 0.954 sec: 7,810 declarations; 31,243 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.48%)
+!SESSION 2025-04-02 13:37:27.660 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-02 13:37:33.118
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-02 13:37:33.120
+!MESSAGE Log4j2 initialized with config file C:\учеба\Laser_communication\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-02 13:37:39.092
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-02 13:38:05.291
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/openstlinux/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-04-02 13:38:05.357
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/updatesite1.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2025-04-02 17:00:11.680
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.gdb.internal.ui.actions.DsfTerminateCommand$3$1@57a69c14): Status OK: unknown code=0 OK' resulted in a rejected execution exception.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2025-04-02 17:56:48.976
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.gdb.internal.ui.actions.DsfTerminateCommand$3$1@69dded35): Status OK: unknown code=0 OK' resulted in a rejected execution exception.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2025-04-02 18:02:51.068
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.gdb.internal.ui.actions.DsfTerminateCommand$3$1@11bb00b): Status OK: unknown code=0 OK' resulted in a rejected execution exception.
